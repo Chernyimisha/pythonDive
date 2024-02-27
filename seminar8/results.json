@@ -1,0 +1,1927 @@
+[
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\lesson.py",
+        "Type": "File",
+        "Size": 1489
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git",
+        "Type": "Directory",
+        "Size": 415996
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea",
+        "Type": "Directory",
+        "Size": 4498
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1",
+        "Type": "Directory",
+        "Size": 2978
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2",
+        "Type": "Directory",
+        "Size": 7899
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3",
+        "Type": "Directory",
+        "Size": 9958
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4",
+        "Type": "Directory",
+        "Size": 13002
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5",
+        "Type": "Directory",
+        "Size": 6972
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6",
+        "Type": "Directory",
+        "Size": 10921
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7",
+        "Type": "Directory",
+        "Size": 273488
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8",
+        "Type": "Directory",
+        "Size": 20292
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\COMMIT_EDITMSG",
+        "Type": "File",
+        "Size": 5
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\config",
+        "Type": "File",
+        "Size": 247
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\description",
+        "Type": "File",
+        "Size": 73
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\FETCH_HEAD",
+        "Type": "File",
+        "Size": 102
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\HEAD",
+        "Type": "File",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\index",
+        "Type": "File",
+        "Size": 8369
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\ORIG_HEAD",
+        "Type": "File",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks",
+        "Type": "Directory",
+        "Size": 25821
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\info",
+        "Type": "Directory",
+        "Size": 240
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs",
+        "Type": "Directory",
+        "Size": 9774
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects",
+        "Type": "Directory",
+        "Size": 167478
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs",
+        "Type": "Directory",
+        "Size": 246
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\applypatch-msg.sample",
+        "Type": "File",
+        "Size": 478
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\commit-msg.sample",
+        "Type": "File",
+        "Size": 896
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\fsmonitor-watchman.sample",
+        "Type": "File",
+        "Size": 4726
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\post-update.sample",
+        "Type": "File",
+        "Size": 189
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-applypatch.sample",
+        "Type": "File",
+        "Size": 424
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-commit.sample",
+        "Type": "File",
+        "Size": 1643
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-merge-commit.sample",
+        "Type": "File",
+        "Size": 416
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-push.sample",
+        "Type": "File",
+        "Size": 1374
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-rebase.sample",
+        "Type": "File",
+        "Size": 4898
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\pre-receive.sample",
+        "Type": "File",
+        "Size": 544
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\prepare-commit-msg.sample",
+        "Type": "File",
+        "Size": 1492
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\push-to-checkout.sample",
+        "Type": "File",
+        "Size": 2783
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\sendemail-validate.sample",
+        "Type": "File",
+        "Size": 2308
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\hooks\\update.sample",
+        "Type": "File",
+        "Size": 3650
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\info\\exclude",
+        "Type": "File",
+        "Size": 240
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\HEAD",
+        "Type": "File",
+        "Size": 1810
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs",
+        "Type": "Directory",
+        "Size": 3982
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs\\heads",
+        "Type": "Directory",
+        "Size": 413
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs\\remotes",
+        "Type": "Directory",
+        "Size": 1578
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs\\heads\\master",
+        "Type": "File",
+        "Size": 413
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs\\remotes\\origin",
+        "Type": "Directory",
+        "Size": 789
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\logs\\refs\\remotes\\origin\\main",
+        "Type": "File",
+        "Size": 789
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\01",
+        "Type": "Directory",
+        "Size": 2543
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\08",
+        "Type": "Directory",
+        "Size": 167
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\09",
+        "Type": "Directory",
+        "Size": 79
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0c",
+        "Type": "Directory",
+        "Size": 536
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0d",
+        "Type": "Directory",
+        "Size": 668
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\10",
+        "Type": "Directory",
+        "Size": 142
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\11",
+        "Type": "Directory",
+        "Size": 557
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\14",
+        "Type": "Directory",
+        "Size": 171
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\16",
+        "Type": "Directory",
+        "Size": 291
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\18",
+        "Type": "Directory",
+        "Size": 725
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1a",
+        "Type": "Directory",
+        "Size": 524
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1b",
+        "Type": "Directory",
+        "Size": 1390
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1c",
+        "Type": "Directory",
+        "Size": 477
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1d",
+        "Type": "Directory",
+        "Size": 157
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1e",
+        "Type": "Directory",
+        "Size": 48
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1f",
+        "Type": "Directory",
+        "Size": 452
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\20",
+        "Type": "Directory",
+        "Size": 410
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\22",
+        "Type": "Directory",
+        "Size": 932
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\24",
+        "Type": "Directory",
+        "Size": 207
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\26",
+        "Type": "Directory",
+        "Size": 63
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\29",
+        "Type": "Directory",
+        "Size": 234
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2c",
+        "Type": "Directory",
+        "Size": 995
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2d",
+        "Type": "Directory",
+        "Size": 816
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2e",
+        "Type": "Directory",
+        "Size": 1067
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\33",
+        "Type": "Directory",
+        "Size": 607
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\36",
+        "Type": "Directory",
+        "Size": 454
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\38",
+        "Type": "Directory",
+        "Size": 1786
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3a",
+        "Type": "Directory",
+        "Size": 1162
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3b",
+        "Type": "Directory",
+        "Size": 5580
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3d",
+        "Type": "Directory",
+        "Size": 777
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\43",
+        "Type": "Directory",
+        "Size": 895
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\46",
+        "Type": "Directory",
+        "Size": 812
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\48",
+        "Type": "Directory",
+        "Size": 128
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\4d",
+        "Type": "Directory",
+        "Size": 1434
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\4f",
+        "Type": "Directory",
+        "Size": 581
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\54",
+        "Type": "Directory",
+        "Size": 196
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\55",
+        "Type": "Directory",
+        "Size": 181
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5c",
+        "Type": "Directory",
+        "Size": 719
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5d",
+        "Type": "Directory",
+        "Size": 445
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5e",
+        "Type": "Directory",
+        "Size": 97
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\60",
+        "Type": "Directory",
+        "Size": 2269
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\65",
+        "Type": "Directory",
+        "Size": 427
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\6d",
+        "Type": "Directory",
+        "Size": 491
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\6f",
+        "Type": "Directory",
+        "Size": 600
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\73",
+        "Type": "Directory",
+        "Size": 1291
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\74",
+        "Type": "Directory",
+        "Size": 1894
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\76",
+        "Type": "Directory",
+        "Size": 654
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\78",
+        "Type": "Directory",
+        "Size": 882
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7d",
+        "Type": "Directory",
+        "Size": 431
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7e",
+        "Type": "Directory",
+        "Size": 700
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7f",
+        "Type": "Directory",
+        "Size": 933
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\82",
+        "Type": "Directory",
+        "Size": 175
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\83",
+        "Type": "Directory",
+        "Size": 661
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\8b",
+        "Type": "Directory",
+        "Size": 174
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\8e",
+        "Type": "Directory",
+        "Size": 277
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\90",
+        "Type": "Directory",
+        "Size": 868
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\94",
+        "Type": "Directory",
+        "Size": 483
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9c",
+        "Type": "Directory",
+        "Size": 162
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9d",
+        "Type": "Directory",
+        "Size": 446
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9e",
+        "Type": "Directory",
+        "Size": 520
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a0",
+        "Type": "Directory",
+        "Size": 401
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a1",
+        "Type": "Directory",
+        "Size": 6875
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a3",
+        "Type": "Directory",
+        "Size": 541
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a6",
+        "Type": "Directory",
+        "Size": 1791
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\aa",
+        "Type": "Directory",
+        "Size": 109
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ab",
+        "Type": "Directory",
+        "Size": 593
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ad",
+        "Type": "Directory",
+        "Size": 270
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b0",
+        "Type": "Directory",
+        "Size": 263
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b2",
+        "Type": "Directory",
+        "Size": 714
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b4",
+        "Type": "Directory",
+        "Size": 164
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b7",
+        "Type": "Directory",
+        "Size": 394
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b9",
+        "Type": "Directory",
+        "Size": 406
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bb",
+        "Type": "Directory",
+        "Size": 165
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bc",
+        "Type": "Directory",
+        "Size": 1305
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bd",
+        "Type": "Directory",
+        "Size": 255
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c1",
+        "Type": "Directory",
+        "Size": 266
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c3",
+        "Type": "Directory",
+        "Size": 561
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c5",
+        "Type": "Directory",
+        "Size": 136
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ca",
+        "Type": "Directory",
+        "Size": 276
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\cc",
+        "Type": "Directory",
+        "Size": 623
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ce",
+        "Type": "Directory",
+        "Size": 446
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\cf",
+        "Type": "Directory",
+        "Size": 1678
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d1",
+        "Type": "Directory",
+        "Size": 482
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d2",
+        "Type": "Directory",
+        "Size": 467
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d3",
+        "Type": "Directory",
+        "Size": 1519
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d6",
+        "Type": "Directory",
+        "Size": 5930
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d9",
+        "Type": "Directory",
+        "Size": 130
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\da",
+        "Type": "Directory",
+        "Size": 157
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\db",
+        "Type": "Directory",
+        "Size": 378
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\dc",
+        "Type": "Directory",
+        "Size": 728
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\dd",
+        "Type": "Directory",
+        "Size": 2989
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e1",
+        "Type": "Directory",
+        "Size": 2550
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e2",
+        "Type": "Directory",
+        "Size": 1384
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e5",
+        "Type": "Directory",
+        "Size": 581
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e6",
+        "Type": "Directory",
+        "Size": 15
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e7",
+        "Type": "Directory",
+        "Size": 137
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ea",
+        "Type": "Directory",
+        "Size": 172
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ec",
+        "Type": "Directory",
+        "Size": 261
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ed",
+        "Type": "Directory",
+        "Size": 316
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ef",
+        "Type": "Directory",
+        "Size": 288
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f3",
+        "Type": "Directory",
+        "Size": 742
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f5",
+        "Type": "Directory",
+        "Size": 557
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f6",
+        "Type": "Directory",
+        "Size": 492
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f9",
+        "Type": "Directory",
+        "Size": 856
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\fc",
+        "Type": "Directory",
+        "Size": 445
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\fe",
+        "Type": "Directory",
+        "Size": 88
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\info",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\pack",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\01\\c283a4a188147d2a57ee6c5fdc214547dbe0e6",
+        "Type": "File",
+        "Size": 2543
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\08\\4e77ace47cfe9f1107448f32fa11e71123a3b6",
+        "Type": "File",
+        "Size": 167
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\09\\564925c240a3167d5ab144783badb3dc1728f0",
+        "Type": "File",
+        "Size": 79
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0c\\577b5861ef056884a97eb35c4f05b6cd3b097d",
+        "Type": "File",
+        "Size": 244
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0c\\cc6ddbb2407b4cd595e3b1362d5acfc516bede",
+        "Type": "File",
+        "Size": 292
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0d\\9ff5b8653ad6737f47297418701212b40e0ddb",
+        "Type": "File",
+        "Size": 262
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\0d\\e07cdb2557fb0e59d218c5be86c91d75dabd1d",
+        "Type": "File",
+        "Size": 406
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\10\\5ce2da2d6447d11dfe32bfb846c3d5b199fc99",
+        "Type": "File",
+        "Size": 142
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\11\\6396aadd5eb92aadf2ae1bca7e5813592ee56d",
+        "Type": "File",
+        "Size": 557
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\14\\c6456acec1b324713e35b2a21e316883baf488",
+        "Type": "File",
+        "Size": 171
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\16\\394bffb1ddb3612381033c4d4e6ea0bf7fa23d",
+        "Type": "File",
+        "Size": 291
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\18\\2086819945abd78a2223da6ba5a0b8650c5c22",
+        "Type": "File",
+        "Size": 725
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1a\\3682c7faedfd5fb154a3d243bada49e8a6f607",
+        "Type": "File",
+        "Size": 524
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1b\\fd4834ec87ab6ae8cbc00191f00f2a942cf2b1",
+        "Type": "File",
+        "Size": 1390
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1c\\c705de00f0b1ad15f81548becb7ba4dc1d1150",
+        "Type": "File",
+        "Size": 477
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1d\\a274dbb0c268082dde34961c6bff8fb75f0dee",
+        "Type": "File",
+        "Size": 157
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1e\\de13be7efdedf823c076904e3279d258fc2ebc",
+        "Type": "File",
+        "Size": 48
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\1f\\0e065e9f1119d6bc10e69111cad8035c2b9043",
+        "Type": "File",
+        "Size": 452
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\20\\767516196c58e325fb65124b2551eb7e754c8a",
+        "Type": "File",
+        "Size": 410
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\22\\9eca0334e15c724445644758149386fa8e5074",
+        "Type": "File",
+        "Size": 932
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\24\\ba6af77ade6b0941cf43c4f66f50b4ba16a78a",
+        "Type": "File",
+        "Size": 207
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\26\\d33521af10bcc7fd8cea344038eaaeb78d0ef5",
+        "Type": "File",
+        "Size": 63
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\29\\1a925f9666f330987c6b6a61f93e8d25033ca2",
+        "Type": "File",
+        "Size": 234
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2c\\62daf6213e8d6bd4068cd8145b10b7042694e1",
+        "Type": "File",
+        "Size": 524
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2c\\8a9e220de3f683897796ce329215c9eac9b2c5",
+        "Type": "File",
+        "Size": 471
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2d\\e4157d728efb7e233fe6f62f35218cd2e664a3",
+        "Type": "File",
+        "Size": 816
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2e\\6062eb5b6304fa3f6cf57ffafcc2e3ba0104cf",
+        "Type": "File",
+        "Size": 315
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2e\\647c52940bdae36940a7c0694e3ac409280ffc",
+        "Type": "File",
+        "Size": 493
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\2e\\a438717b49de2f1dd29429a51ad0bc685724a7",
+        "Type": "File",
+        "Size": 259
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\33\\be4ab0c57e9ded91c41a760cb5a17628aaae05",
+        "Type": "File",
+        "Size": 607
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\36\\2c978028302838396159b67fc2ae8510cb3eb2",
+        "Type": "File",
+        "Size": 454
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\38\\7acefcb67e464f1e136433fcb3f8818952ca3b",
+        "Type": "File",
+        "Size": 1786
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3a\\da5baa80834a9e9763b41d3e1932c8e349437e",
+        "Type": "File",
+        "Size": 1162
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3b\\8128510833d13bf0e076912d4ecdac68410014",
+        "Type": "File",
+        "Size": 5056
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3b\\cb4b730e98aadaab75a88bea6b36352785e81b",
+        "Type": "File",
+        "Size": 524
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\3d\\0ad18ef81bc7a3d9bd0ebe846f3674ffa9c756",
+        "Type": "File",
+        "Size": 777
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\43\\c6f45b90fa8c35878fe7a4c527130954833900",
+        "Type": "File",
+        "Size": 895
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\46\\48ee76b137e22033a09561e34d47b5a66ad146",
+        "Type": "File",
+        "Size": 812
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\48\\78008a4410d31e11ff9ec6aed0071aca00a93f",
+        "Type": "File",
+        "Size": 128
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\4d\\e6b3b8dd55ce7a333cb663bfb53ed8f36c199d",
+        "Type": "File",
+        "Size": 1434
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\4f\\c921c56300406433061aef1decf15c021e86dc",
+        "Type": "File",
+        "Size": 581
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\54\\358119d853e8cebd03d91640762f4395c13d34",
+        "Type": "File",
+        "Size": 196
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\55\\3de99dfd821cbdcdeb8c0add6714777a6d890d",
+        "Type": "File",
+        "Size": 181
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5c\\5a1c1ab9894a9137803e156eaa6aa663b1c380",
+        "Type": "File",
+        "Size": 614
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5c\\f497722b63a66e19047e23412f456625510efb",
+        "Type": "File",
+        "Size": 105
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5d\\7f12e3d7804739216f04cd876ec248b1273662",
+        "Type": "File",
+        "Size": 445
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\5e\\dccd15c63ccb72459f62488528a8d42995dd59",
+        "Type": "File",
+        "Size": 97
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\60\\768abce12249ad19be4c22724904f3930f2347",
+        "Type": "File",
+        "Size": 2269
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\65\\cd7b9b9c2db3cf1cecbc053713be9371e2cf93",
+        "Type": "File",
+        "Size": 427
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\6d\\5c73c4d4a5b4e56fc951c56a5f717c6a9db402",
+        "Type": "File",
+        "Size": 304
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\6d\\cd1852b3158f6a05fcea635e3630c69d7ca7c2",
+        "Type": "File",
+        "Size": 187
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\6f\\5692999f1fe8b92ae31aaea78d4929a2fcc530",
+        "Type": "File",
+        "Size": 600
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\73\\f69f25b67b836ca33b8d83ee2ee1904b06a89f",
+        "Type": "File",
+        "Size": 1291
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\74\\febb978fd422a2b03ca08f15360565c3896907",
+        "Type": "File",
+        "Size": 1894
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\76\\6ba5c89cf683ca1df04375b439250a46f7da42",
+        "Type": "File",
+        "Size": 654
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\78\\289cae75086d842412d96264153b846b644471",
+        "Type": "File",
+        "Size": 882
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7d\\5f54b2f9f1f05b27b0fcbd508b789b42623c7d",
+        "Type": "File",
+        "Size": 431
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7e\\4e9774edb158bf4cdbea0eeb8db16560052e76",
+        "Type": "File",
+        "Size": 700
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\7f\\27de6593ae02863477cb5d3ee1441bfe781309",
+        "Type": "File",
+        "Size": 933
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\82\\3c95d0324ee2faf658b06f63fb725f895c19df",
+        "Type": "File",
+        "Size": 175
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\83\\30effa1db9b3381fcd9c28dab8f34ad46317a7",
+        "Type": "File",
+        "Size": 505
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\83\\dcd639f67f41be53dc06ce43479831472d6929",
+        "Type": "File",
+        "Size": 156
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\8b\\aa0278182ca281f5990a6bf879323f07e0a8a5",
+        "Type": "File",
+        "Size": 174
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\8e\\4b4f4120751431cfbfc192693ec83a7f094a74",
+        "Type": "File",
+        "Size": 277
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\90\\a81c2461d3da9ed15b0ede93d6230fe06baacc",
+        "Type": "File",
+        "Size": 580
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\90\\f11521fd33a7237c3468eba93a599192c10635",
+        "Type": "File",
+        "Size": 288
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\94\\a25f7f4cb416c083d265558da75d457237d671",
+        "Type": "File",
+        "Size": 155
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\94\\e253a1ce65c1caab492f7293db53c0eaff55c6",
+        "Type": "File",
+        "Size": 328
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9c\\9dde3be8602c7bb6da2262ec10481fd7f9f7b6",
+        "Type": "File",
+        "Size": 162
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9d\\7fbcca0ff8b18ab14471e847a206134bed9f2a",
+        "Type": "File",
+        "Size": 176
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9d\\d5ca8e50bf797101639bb7df72dbd091b25b1b",
+        "Type": "File",
+        "Size": 270
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\9e\\8f1d8082718ed0df25442ce9b9bde7e5b9eb96",
+        "Type": "File",
+        "Size": 520
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a0\\dbb206405ed692bc50c2f00dc89c648166de41",
+        "Type": "File",
+        "Size": 341
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a0\\dd3ecda17a65f42a9e6793ffa1fe042fc54af0",
+        "Type": "File",
+        "Size": 60
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a1\\06c0f0c66a2b46d6c9d3c1861de2882322bdcc",
+        "Type": "File",
+        "Size": 5193
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a1\\5e21d72e6948906f827f7374b50fabf4ae5e57",
+        "Type": "File",
+        "Size": 347
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a1\\e45b70c15e92cf3c1b567dca6eaefd3a8949d4",
+        "Type": "File",
+        "Size": 1128
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a1\\fd0afedf622b2f15a6e33b48b881801997180a",
+        "Type": "File",
+        "Size": 207
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a3\\41b235579297d554cf87671adf8246902f70c3",
+        "Type": "File",
+        "Size": 541
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\a6\\fa52de538b4b821aa27eaedccc9a331864d1f6",
+        "Type": "File",
+        "Size": 1791
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\aa\\58dac54d75bc46ae3bfeabe1023dd5d3f9ef71",
+        "Type": "File",
+        "Size": 109
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ab\\db4f40889f2be1b5894d99af63f8904195daa5",
+        "Type": "File",
+        "Size": 593
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ad\\35a4c52fd78861a0e48ab5af744f5cc82a05f8",
+        "Type": "File",
+        "Size": 270
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b0\\835129e51244975ee12979647903fa04efdb45",
+        "Type": "File",
+        "Size": 263
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b2\\a1815220cdae084622e0a1d6e3580945eb63e7",
+        "Type": "File",
+        "Size": 714
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b4\\588ffb881b472dc521c16dfeed536cbc3bc659",
+        "Type": "File",
+        "Size": 164
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b7\\2c5abe3a7bb8618780af3586bbd3a189fb6f78",
+        "Type": "File",
+        "Size": 394
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\b9\\472d6ede4d6ee87e2752f09dc8cf50f47712fb",
+        "Type": "File",
+        "Size": 406
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bb\\efc4448724c69338d3480b8c6f99b1a4057a9a",
+        "Type": "File",
+        "Size": 165
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bc\\78affcd7d436c29821666904959fd160d64902",
+        "Type": "File",
+        "Size": 1305
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\bd\\d3a8992570a3a6374c1eb25244c5d4cabb6cfd",
+        "Type": "File",
+        "Size": 255
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c1\\31e869e5ce9b3e790589b0d5c9efc97f4c8257",
+        "Type": "File",
+        "Size": 266
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c3\\022717c50ee4071038bc25c31c6dfc1c4ce9fa",
+        "Type": "File",
+        "Size": 194
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c3\\93651e8b8bf8ed3242d65daacaafd614538dfd",
+        "Type": "File",
+        "Size": 367
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\c5\\bf811136ff2a3f9ea29273d2015c26f0519d42",
+        "Type": "File",
+        "Size": 136
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ca\\913012d7ec67801370169dd036f8c38f527bbf",
+        "Type": "File",
+        "Size": 276
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\cc\\3c205484e689937b2e478878dcd555b6d712fa",
+        "Type": "File",
+        "Size": 173
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\cc\\b5e0cb57fa2490451319f8ce4ea88a5e985758",
+        "Type": "File",
+        "Size": 450
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ce\\4e5c48286912bea5ebedb0ed9dbbf60d45b2bf",
+        "Type": "File",
+        "Size": 446
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\cf\\bb5a64d1e5b210572ef419fb1163c109c883c2",
+        "Type": "File",
+        "Size": 1678
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d1\\f230af04da1c40770b64ead5a260c5afe57014",
+        "Type": "File",
+        "Size": 482
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d2\\a438e3e93cd0d122789ac96e528aed732f2fee",
+        "Type": "File",
+        "Size": 467
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d3\\2e98ada9cb0609ce51cf1b2760d6a7a7bccfa4",
+        "Type": "File",
+        "Size": 1519
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d6\\2f03bff476958409c504ba94bf9a0f865cfb9d",
+        "Type": "File",
+        "Size": 5799
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d6\\40b6d6898151bab8e7ba6682493bd79e64f1b3",
+        "Type": "File",
+        "Size": 131
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\d9\\ca77987b984e546218cd92dea6492aa6676c9d",
+        "Type": "File",
+        "Size": 130
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\da\\05129adb068068868a66b2c49b899f4befc851",
+        "Type": "File",
+        "Size": 157
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\db\\6347a642a947813b45acbb534d5c9d1069e046",
+        "Type": "File",
+        "Size": 271
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\db\\85deb001cc8d97dc405f2c5a47ed29babe6794",
+        "Type": "File",
+        "Size": 107
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\dc\\3b5df981ee624875b10061ae6f8d2d6c8c98ba",
+        "Type": "File",
+        "Size": 728
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\dd\\f885040526960c00c07a6da86d90c7e7de7f74",
+        "Type": "File",
+        "Size": 2989
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e1\\c6f77607e4d634c02bc90ee9a6675909dc0d52",
+        "Type": "File",
+        "Size": 2550
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e2\\5f8046a32775c8050ef5e2392464faa6da3195",
+        "Type": "File",
+        "Size": 259
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e2\\ccaad12b3eee5bf37516592eb08587ee0185c8",
+        "Type": "File",
+        "Size": 1125
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e5\\67750593ba69bfeec215611ce8f160475a4a3a",
+        "Type": "File",
+        "Size": 581
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "Type": "File",
+        "Size": 15
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\e7\\338c7d55174d2cf1a35c9e03a936a81f2eda66",
+        "Type": "File",
+        "Size": 137
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ea\\d24ac4179496a1fd898ca60822f6a556b0afb8",
+        "Type": "File",
+        "Size": 172
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ec\\0323d1be1c93fa71613ec82a8231ebab6ae628",
+        "Type": "File",
+        "Size": 261
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ed\\c0114b40c1b32184eee3388e99580a2bc5e2a4",
+        "Type": "File",
+        "Size": 316
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\ef\\5ffed5d7c25e0f7ab06b998f323fee734b2ec5",
+        "Type": "File",
+        "Size": 288
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f3\\d7d5767eebdbdd397538266ad55810a774c872",
+        "Type": "File",
+        "Size": 742
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f5\\85eb91710d1830a221058b446bad401e18ffe9",
+        "Type": "File",
+        "Size": 557
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f6\\031af1c77c5d005d3413263910c6eb8c13e1d9",
+        "Type": "File",
+        "Size": 492
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f9\\38ba73c4d3c0a3b21d577eadf42453bb489daf",
+        "Type": "File",
+        "Size": 417
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\f9\\6bc146ee98f0fb98112bbb5294ce1a90d81587",
+        "Type": "File",
+        "Size": 439
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\fc\\7f337f3b71a9f268b8f9a6addbba83c35b11c8",
+        "Type": "File",
+        "Size": 445
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\objects\\fe\\4f6b5102602bb5b79fd96fe44306d339063cdf",
+        "Type": "File",
+        "Size": 88
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\heads",
+        "Type": "Directory",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\remotes",
+        "Type": "Directory",
+        "Size": 82
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\tags",
+        "Type": "Directory",
+        "Size": 0
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\heads\\master",
+        "Type": "File",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\remotes\\origin",
+        "Type": "Directory",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.git\\refs\\remotes\\origin\\main",
+        "Type": "File",
+        "Size": 41
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\.gitignore",
+        "Type": "File",
+        "Size": 50
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\misc.xml",
+        "Type": "File",
+        "Size": 208
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\modules.xml",
+        "Type": "File",
+        "Size": 293
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\pythonDive_course.iml",
+        "Type": "File",
+        "Size": 494
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\vcs.xml",
+        "Type": "File",
+        "Size": 185
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\inspectionProfiles",
+        "Type": "Directory",
+        "Size": 1634
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\inspectionProfiles\\profiles_settings.xml",
+        "Type": "File",
+        "Size": 179
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\.idea\\inspectionProfiles\\Project_Default.xml",
+        "Type": "File",
+        "Size": 1455
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1\\001.py",
+        "Type": "File",
+        "Size": 352
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1\\002.py",
+        "Type": "File",
+        "Size": 755
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1\\003.py",
+        "Type": "File",
+        "Size": 1126
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1\\004.py",
+        "Type": "File",
+        "Size": 461
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar1\\005.py",
+        "Type": "File",
+        "Size": 284
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\001.py",
+        "Type": "File",
+        "Size": 1215
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\002.py",
+        "Type": "File",
+        "Size": 1493
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\003.py",
+        "Type": "File",
+        "Size": 710
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\004.py",
+        "Type": "File",
+        "Size": 411
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\005.py",
+        "Type": "File",
+        "Size": 1955
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar2\\dz_task2.py",
+        "Type": "File",
+        "Size": 2115
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\1.py",
+        "Type": "File",
+        "Size": 728
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\2.py",
+        "Type": "File",
+        "Size": 873
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\3.py",
+        "Type": "File",
+        "Size": 508
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\4.py",
+        "Type": "File",
+        "Size": 571
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\5.py",
+        "Type": "File",
+        "Size": 503
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\6.py",
+        "Type": "File",
+        "Size": 968
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\7.py",
+        "Type": "File",
+        "Size": 1385
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\8.py",
+        "Type": "File",
+        "Size": 1857
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\dz_task1.py",
+        "Type": "File",
+        "Size": 493
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\dz_task2.py",
+        "Type": "File",
+        "Size": 1660
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar3\\dz_task3.py",
+        "Type": "File",
+        "Size": 412
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\001.py",
+        "Type": "File",
+        "Size": 1852
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\002.py",
+        "Type": "File",
+        "Size": 540
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\003.py",
+        "Type": "File",
+        "Size": 857
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\004.py",
+        "Type": "File",
+        "Size": 682
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\005.py",
+        "Type": "File",
+        "Size": 852
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\006.py",
+        "Type": "File",
+        "Size": 891
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\007.py",
+        "Type": "File",
+        "Size": 1002
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\dz_task01.py",
+        "Type": "File",
+        "Size": 841
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\dz_task02.py",
+        "Type": "File",
+        "Size": 700
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar4\\dz_task03.py",
+        "Type": "File",
+        "Size": 4785
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\01.py",
+        "Type": "File",
+        "Size": 761
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\02.py",
+        "Type": "File",
+        "Size": 791
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\03.py",
+        "Type": "File",
+        "Size": 432
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\04.py",
+        "Type": "File",
+        "Size": 1147
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\05.py",
+        "Type": "File",
+        "Size": 489
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\06.py",
+        "Type": "File",
+        "Size": 784
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\DZ01.py",
+        "Type": "File",
+        "Size": 930
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\DZ02.py",
+        "Type": "File",
+        "Size": 1172
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar5\\DZ03.py",
+        "Type": "File",
+        "Size": 466
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6\\01.py",
+        "Type": "File",
+        "Size": 2258
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6\\02.py",
+        "Type": "File",
+        "Size": 1669
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6\\03.py",
+        "Type": "File",
+        "Size": 1963
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6\\04.py",
+        "Type": "File",
+        "Size": 1545
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar6\\DZ06_2.py",
+        "Type": "File",
+        "Size": 3486
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\1.py",
+        "Type": "File",
+        "Size": 769
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\2.py",
+        "Type": "File",
+        "Size": 939
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\3.py",
+        "Type": "File",
+        "Size": 2565
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\names.txt",
+        "Type": "File",
+        "Size": 86
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\numbers.txt",
+        "Type": "File",
+        "Size": 121
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\nums.txt",
+        "Type": "File",
+        "Size": 203
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\README.md",
+        "Type": "File",
+        "Size": 9361
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\result.txt",
+        "Type": "File",
+        "Size": 239
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\words.txt",
+        "Type": "File",
+        "Size": 37
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4",
+        "Type": "Directory",
+        "Size": 114964
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files",
+        "Type": "Directory",
+        "Size": 14620
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv",
+        "Type": "Directory",
+        "Size": 25675
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\json",
+        "Type": "Directory",
+        "Size": 25719
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\md",
+        "Type": "Directory",
+        "Size": 1005
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\txt",
+        "Type": "Directory",
+        "Size": 5083
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv\\Aauuasyyhosayukaaskeypebuhiyoe.csv",
+        "Type": "File",
+        "Size": 5463
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv\\Aepymvzehkaiauymufmabsstuupdio.csv",
+        "Type": "File",
+        "Size": 4683
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv\\Azowfiuoouylumzeacua.csv",
+        "Type": "File",
+        "Size": 1198
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv\\Hwsdplevncfnuwmduklydienynuyi.csv",
+        "Type": "File",
+        "Size": 4722
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\csv\\Yukgoz.csv",
+        "Type": "File",
+        "Size": 9609
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\json\\Eedewkke.json",
+        "Type": "File",
+        "Size": 10636
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\json\\Fulsaotkang.json",
+        "Type": "File",
+        "Size": 3247
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\json\\Hduiaowvacmiuylgtlovlnnyd.json",
+        "Type": "File",
+        "Size": 2511
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\json\\Hyunice.json",
+        "Type": "File",
+        "Size": 9325
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\md\\Fhstizoyiaiw.md",
+        "Type": "File",
+        "Size": 1005
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\txt\\Eooony.txt",
+        "Type": "File",
+        "Size": 903
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\files_for_task4\\txt\\Nysveekveuibyvwyivbcpukyyhvbv.txt",
+        "Type": "File",
+        "Size": 4180
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\1.py",
+        "Type": "File",
+        "Size": 1660
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\sort_by_ext.py",
+        "Type": "File",
+        "Size": 1063
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\task1.py",
+        "Type": "File",
+        "Size": 830
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\task2.py",
+        "Type": "File",
+        "Size": 823
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\task3.py",
+        "Type": "File",
+        "Size": 2391
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\task4.py",
+        "Type": "File",
+        "Size": 3327
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\taskDZ_01.py",
+        "Type": "File",
+        "Size": 2981
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar7\\working_with_files\\__init__.py",
+        "Type": "File",
+        "Size": 1545
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\database.json",
+        "Type": "File",
+        "Size": 115
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\DZ_1.py",
+        "Type": "File",
+        "Size": 6741
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\file.txt",
+        "Type": "File",
+        "Size": 112
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\output.json",
+        "Type": "File",
+        "Size": 133
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\README.md",
+        "Type": "File",
+        "Size": 3758
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\task02.csv",
+        "Type": "File",
+        "Size": 0
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\task1.py",
+        "Type": "File",
+        "Size": 1291
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\task2.py",
+        "Type": "File",
+        "Size": 5546
+    },
+    {
+        "Path": "M:\\\u0420\u0410\u0411\u041e\u0422\u0410 \u041c\u0418\u0428\u0410\\\u041a\u0443\u0440\u0441 Python\\Projects Python\\PYTHON Dive\\seminar8\\task5.py",
+        "Type": "File",
+        "Size": 2596
+    }
+]
